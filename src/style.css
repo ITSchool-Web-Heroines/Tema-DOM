@@ -1,0 +1,37 @@
+.container {
+    max-width: 90ch;
+    margin-inline: auto;
+}
+
+.buttons {
+    display: flex;
+    gap: 0.5rem;
+    margin-block: 1rem;
+}
+.buttons a {
+    text-decoration: none;
+    padding: 0.5rem 2rem;
+    border: 3px solid #4B51FE;
+    border-radius: 4rem;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+}
+
+.buttons a.active {
+    background: #4B51FE;
+    color: #fff;
+}
+
+.tabs article {
+    display: none;
+}
+
+.tabs article.active {
+    display: block;
+    padding: 0.5rem 2rem;
+    border: 3px solid #4B51FE;
+    border-radius: 1rem;
+    background: #fff;
+    color: #000;
+}
