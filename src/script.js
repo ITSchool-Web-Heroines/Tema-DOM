@@ -5,3 +5,13 @@ La apăsarea unui buton (.buttons a):
     - Adaugă clasa "active" la butonul apăsat
     - Adaugă clasa "active" la tab-ul identificat prin atributul data-target
 */
+    const butoane = document.querySelector('.buttons');
+    
+    butoane.addEventListener("click",() => {
+        const ancore = butoane.querySelectorAll('.buttons a') 
+        console.log(ancore);
+    })
+
+    
+
+
