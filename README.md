@@ -8,3 +8,7 @@
 6. Dacă nu reușești să rezolvi complet, poți face commit la ce ai, și vei cere ajutor.
 7. Fă push pe GitHub
 8. Crează un Pull Request la [proiectul principal](https://github.com/ITSchool-Web-Heroines/Tema-DOM/pulls)
+ 
+Rezultat:
+
+ ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/32037529/212146510-507493ca-b607-4c09-94db-4c8fe7ad20da.gif)
